@@ -1,0 +1,6 @@
+lead_id,date,channel,device,company_size,sector,region,status,cost,impressions,clicks,conversions,CTR
+101,2025-09-01,Emailing,Mobile,1-10,Tech,IdF,MQL,1200,50000,1500,120,0.03
+102,2025-09-02,Facebook Ads,Desktop,10-50,Retail,Hauts-de-France,SQL,3000,90000,2200,180,0.024444444444444446
+103,2025-09-03,LinkedIn,Mobile,50-100,Finance,PAC,Client,2500,40000,900,75,0.0225
+104,2025-09-04,Emailing,Tablet,1-10,Health,ARA,MQL,1200,50000,1500,120,0.03
+105,2025-09-05,Instagram Ads,Mobile,100-500,Education,IdF,Client,1800,70000,2600,210,0.037142857142857144
